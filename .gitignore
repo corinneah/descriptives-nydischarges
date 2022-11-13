@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/Hospital_SPARCS_2016.csv
